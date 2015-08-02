@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-Hello This is my First Repository in Git Hub ......i feel honored
+Hello guys,
+Whats up brotheres......i like progrmaming a lot .....i think i am somewhat made of it
